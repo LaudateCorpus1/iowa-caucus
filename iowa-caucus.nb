@@ -1,0 +1,55 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1313,         45]
+NotebookOptionsPosition[       957,         31]
+NotebookOutlinePosition[      1363,         47]
+CellTagsIndexPosition[      1320,         44]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"csv", "=", 
+   RowBox[{"Import", "[", 
+    RowBox[{
+    "\"\<https://github.com/DesiQuintans/IowaDemCaucus2020/blob/master/_\
+compiled/2020-02-07T1614Z%2B10.csv\>\"", ",", "\"\<CSV\>\""}], "]"}]}], 
+  ";"}]], "Input",
+ CellChangeTimes->{{3.79009468777887*^9, 3.790094696000001*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"0d38a949-cd3b-4f66-a6dc-804ce8f5e1b6"]
+},
+WindowSize->{571., 627.5},
+WindowMargins->{{183, Automatic}, {Automatic, 101}},
+FrontEndVersion->"12.1 for Microsoft Windows (64-bit) (February 6, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"d5b5318c-ab8e-4979-9eb6-be280fecb4fd"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 395, 9, 87, "Input",ExpressionUUID->"0d38a949-cd3b-4f66-a6dc-804ce8f5e1b6"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
